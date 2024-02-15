@@ -1,0 +1,10 @@
+Wollongong,100000
+Sydney,500000
+Perth,200000
+Melbourne,300000
+Orange,20000
+Springfield,30000
+Quahog,50000
+New New York,300000
+Rapture,10000
+Columbia,50000
